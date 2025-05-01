@@ -1,62 +1,67 @@
-# Names
-Brooke Dietmeier, Hannah Lam, Yaphet Paulos, Phu Quan
+**[Your Full Name]**
+[Your Phone Number] | [Your Email Address] | [Your LinkedIn Profile URL (Optional)] | [Your Portfolio URL (Optional)]
+[Your City, State]
 
-Repo includes a readme file that describes your team's mission, developer instructions for building your project, features that you'd like to highlight (3 points)
+---
 
-# Team Mission Statement: 
-Our mission is to **empower individuals in the Seattle area, particularly students at the University of Washington, with accessible, entry-level cybersecurity education**. By addressing high barriers to entry, limited practical learning opportunities, and lack of awareness about resources, we aim to foster foundational skills and knowledge in cybersecurity. Our goal is to create an inclusive environment that connects aspiring professionals to valuable resources, events, and experts, paving the way for a more diverse and capable cybersecurity workforce.
+**Summary/Objective**
 
+*(Choose ONE of the following options and customize it)*
 
-# Features:
-## Educational Resource Hub
+* **Objective:** Detail-oriented and motivated Informatics student seeking an [Specify Type, e.g., IT Support, Project Coordinator, Junior Developer] role. Proven ability to quickly master technical skills, improve processes using Agile methodologies, and lead teams, demonstrated by rapid promotion to Team Lead and achieving a 25% increase in project delivery speed in a student IT consultant role. Eager to apply technical troubleshooting, software deployment, and leadership experience to contribute to [Company Name]'s success.
+* **Summary:** Proactive and results-driven Student IT Consultant Team Lead with experience in technical support, Agile practices (Jira), software deployment, and team leadership within a university setting. Successfully managed hardware/software audits for 150+ devices, ensured 98% operational readiness for lab systems, and accelerated team project delivery by 25% after earning promotion within 3 months. Seeking to leverage technical expertise and leadership capabilities in a challenging IT role.
 
-Comprehensive list of beginner-friendly cybersecurity resources.
-Interactive tutorials and guides tailored to the Seattle area.
+---
 
+**EDUCATION**
 
-## Career Pathways
+**University of Washington** | Seattle, WA
+Bachelor of Science in Informatics | Expected Graduation: June 2025 *(Adjust date if needed)*
+* GPA: [Enter GPA if 3.5+; otherwise, delete this line]
+* Relevant Coursework: [List key courses, e.g., Database Management, Software Development, Project Management, Network Fundamentals, Human-Computer Interaction]
+* Awards/Honors: [e.g., Dean's List Spring 2024; delete if none]
 
-Profiles of entry-level cybersecurity careers with required skills and certifications.
-Step-by-step guides for building resumes and preparing for interviews in cybersecurity.
+---
 
-## Technical Tool Kit
+**WORK EXPERIENCE**
 
-Tool kit that provides users with access to critical
-cybersecurity tips and tricks to keep themselves and their friends #cyberAware. 
+**University of Washington** | Seattle, WA
 
-## Inclusive and Accessible Design
+    **Student IT Consultant Team Lead** | March 2025 – Present
+        * Earned promotion to Team Lead within 3 months; led 18+ cross-functional students, accelerating project delivery by 25% through implementing Agile practices and optimizing Jira workflows.
+        * [Add another bullet point about a specific Team Lead accomplishment - e.g., Mentored junior consultants, improved documentation, led specific project]
 
-Content tailored for non-traditional students and individuals from underrepresented backgrounds.
-Accessibility features to ensure usability for all.
+    **Student IT Consultant** | January 2025 – March 2025
+        * Managed software configuration deployments for ~150 lab computers and printers, ensuring 98% operational readiness.
+        * Diagnosed and resolved technical issues across 150+ devices (computers, printers, peripherals), maintaining a 95% user satisfaction rating.
+        * Executed comprehensive hardware and software audits across 150+ devices, achieving 100% compliance. *(Added the improved audit point)*
 
-# Team Agreement
-## Communication
-### Primary Tools: 
-- Slack for daily communication, Zoom for weekly meetings.
-### Response Time: Team members should respond to messages within 24 hours.
+---
 
-## Roles and Responsibilities
-### Project Manager: Hannah Lam
-Oversees progress, sets deadlines, and facilitates communication.
-### Frontend Developer: Yaphet Paulos
-Focuses on UI/UX and ensures the application is visually appealing and user-friendly.
-### Backend Developer: Phu Quan
-Manages server-side logic and database integration.
-### Research Lead: Brooke
-Gathers resources, organizes content, and ensures factual accuracy.
+**SKILLS**
 
-## Code Standards
-Use consistent naming conventions and follow agreed-upon coding style guidelines.
-Ensure code is well-documented with comments explaining complex logic.
-Conflict Resolution
+* **Technical Skills:** Hardware Troubleshooting, Software Troubleshooting, Software Deployment, Network Fundamentals, Operating Systems (Windows, macOS, Linux - specify proficiency), Jira, Agile Methodologies, [List specific programming languages like Python, Java, SQL], [List database knowledge], [List web technologies like HTML, CSS, JavaScript], [List other relevant software/tools]
+* **Soft Skills:** Leadership, Team Collaboration, Communication (Written & Verbal), Problem-Solving, Process Improvement, Time Management, Customer Service, Mentoring
 
-Discuss issues openly during weekly meetings.
-If unresolved, escalate to the project manager for mediation.
-Quality Assurance
+---
 
-Every feature must undergo code review by at least one other team member before merging.
-Regular testing to ensure functionality and compatibility.
-Accountability
+**PROJECTS**
 
-All team members are expected to complete their assigned tasks by agreed-upon deadlines.
-Missed deadlines should be communicated in advance with a plan for resolution.
+*(Optional but recommended for Informatics students. List 1-3 key academic or personal projects)*
+
+**[Project Title 1]** | [Date Range or Completion Date]
+* [Bullet point describing the project goal and your role]
+* [Bullet point highlighting key skills used (e.g., Python, SQL, data analysis) and achievements (e.g., Developed a functional web app, analyzed dataset)]
+
+**[Project Title 2]** | [Date Range or Completion Date]
+* [Bullet point describing the project goal and your role]
+* [Bullet point highlighting key skills used and achievements]
+
+---
+
+**STUDENT ORGANIZATION INVOLVEMENT / ACTIVITIES**
+
+* [Role], [Campus Group Name] | [Start Date] – Present
+* [Role], [Campus Group Name] | [Start Date] – [End Date]
+* [Volunteer Activity or relevant hobby]
+
